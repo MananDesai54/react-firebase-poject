@@ -1,4 +1,4 @@
-##react-redux-firebase-project
+<h1>react-redux-firebase-project</h1><br/>
 Small app to share project ideas and some other work..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
