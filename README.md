@@ -2,3 +2,7 @@
 Small app to share project ideas and some other work..
 
 Project live at : https://react-redux-firebase-pro-5543c.web.app/
+
+<br />
+<br/>
+Still working on some signup bugs...
